@@ -1,0 +1,13 @@
+{
+  "name": "pc-split-screen-demo",
+  "version": "1.0.0",
+  "description": "split screen showcase",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "William Chou",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^10.0.2"
+  }
+}
